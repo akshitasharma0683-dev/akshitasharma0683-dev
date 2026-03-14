@@ -74,5 +74,4 @@ A personal portfolio website showcasing my projects and technical skills.
 
 ## 🤝 Connect With Me
 
-LinkedIn: (your LinkedIn link)  
-Email: (your email)
+LinkedIn:https://www.linkedin.com/in/akshita-sharma-188773219/
