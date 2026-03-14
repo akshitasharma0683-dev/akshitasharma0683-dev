@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Akshita Sharma 👋
 
-<!--
-**akshitasharma0683-dev/akshitasharma0683-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer | Spring Boot | REST APIs
 
-Here are some ideas to get you started:
+I am a passionate Java developer focused on building scalable backend applications using Spring Boot.  
+I enjoy solving real-world problems through clean and efficient code, and I am continuously learning new technologies to improve my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently seeking opportunities as a **Java Backend Developer / Software Developer** where I can contribute and grow as a developer.
+
+---
+
+## 🚀 Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- REST APIs
+
+**Database**
+- MySQL
+
+**Tools & Technologies**
+- Git & GitHub
+- Maven
+- Postman
+
+**Frontend Basics**
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 PaisaLekha – Expense Tracker
+A backend application for tracking personal expenses.
+
+**Features**
+- Add / update / delete expenses
+- Categorize expenses
+- REST API based architecture
+
+**Tech Used**
+Java, Spring Boot, MySQL, REST APIs
+
+---
+
+### 🔹 Task Manager – Full Stack Application
+A task management system that helps users organize and track tasks.
+
+**Features**
+- Create, update and delete tasks
+- Task status management
+- Simple and clean user interface
+
+**Tech Used**
+JavaScript, HTML, CSS, Backend APIs
+
+---
+
+### 🔹 Portfolio Website
+A personal portfolio website showcasing my projects and technical skills.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Spring Boot
+- Backend system design
+- Writing clean and scalable APIs
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn: (your LinkedIn link)  
+Email: (your email)
