@@ -2,76 +2,56 @@
 
 💻 Java Backend Developer | Spring Boot | REST APIs
 
-I am a passionate Java developer focused on building scalable backend applications using Spring Boot.  
-I enjoy solving real-world problems through clean and efficient code, and I am continuously learning new technologies to improve my development skills.
+I build backend services using Java and Spring Boot with a focus on clean architecture, secure APIs, and reliable backend systems.
 
-Currently seeking opportunities as a **Java Backend Developer / Software Developer** where I can contribute and grow as a developer.
+My experience includes designing REST APIs, implementing JWT-based authentication, working with relational databases, and building layered backend applications following Controller–Service–Repository architecture.
 
----
+This GitHub profile contains projects related to backend development, API design, and database-driven applications built using modern Java technologies.
 
-## 🚀 Tech Stack
-
+🚀 Tech Stack
 **Backend**
-- Java
+- Java 17
 - Spring Boot
+- Spring Data JPA
+- Hibernate
+- Spring Security
+
+**API Development**
 - REST APIs
+- JWT Authentication
+- JSON
 
-**Database**
+**Databases**
 - MySQL
+- PostgreSQL
+- MongoDB
 
-**Tools & Technologies**
-- Git & GitHub
+**Tools**
+- Git
+- Docker
 - Maven
 - Postman
+- Linux
+- 
+📂 Featured Projects
+### PaisaLekha – Personal Finance Backend
+Backend service for expense tracking with secure JWT authentication and REST APIs.
 
-**Frontend Basics**
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 📂 Featured Projects
-
-### 🔹 PaisaLekha – Expense Tracker
-A backend application for tracking personal expenses.
-
-**Features**
-- Add / update / delete expenses
-- Categorize expenses
-- REST API based architecture
-
-**Tech Used**
-Java, Spring Boot, MySQL, REST APIs
+Tech: Java 17, Spring Boot, PostgreSQL, Spring Data JPA
 
 ---
 
-### 🔹 Task Manager – Full Stack Application
-A task management system that helps users organize and track tasks.
+### Blogging Platform
+Multi-user blogging application supporting authentication, blog creation, editing, deletion and commenting.
 
-**Features**
-- Create, update and delete tasks
-- Task status management
-- Simple and clean user interface
-
-**Tech Used**
-JavaScript, HTML, CSS, Backend APIs
+Tech: JSP, Servlets, JDBC, MySQL
 
 ---
 
-### 🔹 Portfolio Website
-A personal portfolio website showcasing my projects and technical skills.
+### Task Management System
+Full stack task management platform with authentication and task CRUD operations.
 
----
+Tech: React, Node.js, Express, MySQL
 
-## 📈 Currently Learning
-
-- Advanced Spring Boot
-- Backend system design
-- Writing clean and scalable APIs
-
----
-
-## 🤝 Connect With Me
-
-LinkedIn:https://www.linkedin.com/in/akshita-sharma-188773219/
+🤝 Connect With Me
+https://www.linkedin.com/in/akshita-sharma-188773219/
