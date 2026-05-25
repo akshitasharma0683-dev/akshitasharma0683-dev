@@ -1,11 +1,10 @@
 # Hi, I'm Akshita Sharma 👋
 
-💻 Java Backend Developer | Spring Boot | REST APIs  
-☕ Building backend systems with Java and Spring Boot
+💻 Java Backend Developer | Spring Boot | REST APIs
 
-I build backend services using **Java and Spring Boot** with a focus on clean architecture, secure APIs, and reliable backend systems.
+Backend-focused developer building secure and scalable applications using Java, Spring Boot, Hibernate, PostgreSQL, and Spring Security.
 
-My experience includes designing **REST APIs, JWT authentication, relational database modeling, and layered backend architectures (Controller–Service–Repository).**
+Experienced in REST API development, JWT authentication, relational database design, and layered backend architecture through internship experience and personal projects.
 
 ---
 
@@ -44,18 +43,20 @@ Backend service for expense tracking with secure **JWT authentication** and **RE
 ---
 
 ### Blogging Platform
-Multi-user blogging platform supporting authentication, blog creation, editing, deletion, and commenting.
-
+Multi-user blogging platform with authentication, session handling, CRUD operations, and relational database integration.
 **Tech:** JSP, Servlets, JDBC, MySQL  
 
 ---
 
-### Task Management System
-Full stack task management application supporting authentication and task CRUD operations.
+### Smoly – URL Shortener & Certificate Generation Platform
 
-**Tech:** React, Node.js, Express, MySQL  
+Backend-focused application for URL shortening, redirection handling, click tracking, and dynamic certificate generation.
 
----
+**Tech:** Java 17, Spring Boot, PostgreSQL, Spring Data JPA, JavaScript, Docker
+
+🔗 Live Demo: https://smoly.onrender.com/
+🔗 GitHub Repository: https://github.com/akshitasharma0683-dev/smoly
+
 
 ## 📊 GitHub Stats
 
