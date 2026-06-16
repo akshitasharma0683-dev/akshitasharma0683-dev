@@ -1,72 +1,109 @@
 # Hi, I'm Akshita Sharma 👋
 
-💻 Java Backend Developer | Spring Boot | REST APIs
+💻 **Java Backend Developer | Spring Boot | REST APIs | PostgreSQL**
 
-Backend-focused developer building secure and scalable applications using Java, Spring Boot, Hibernate, PostgreSQL, and Spring Security.
+Backend-focused developer with internship experience building secure and scalable applications using Java, Spring Boot, Spring Security, Hibernate, and PostgreSQL.
 
-Experienced in REST API development, JWT authentication, relational database design, and layered backend architecture through internship experience and personal projects.
+Experienced in designing REST APIs, implementing JWT authentication, working with relational databases, and developing layered backend architectures.
+
+Currently improving my skills in **Data Structures & Algorithms, System Design, and Backend Engineering**.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+* Java
+* Spring Boot
+* Spring Security
+* Hibernate
+* Spring Data JPA
 
 ### API Development
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+* REST APIs
+* JWT Authentication
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* PostgreSQL
+* MySQL
+
+### Tools & DevOps
+
+* Git
+* Docker
+* Maven
+* Postman
+* Linux
 
 ---
 
 ## 📂 Featured Projects
 
-### PaisaLekha – Personal Finance Backend
-Backend service for expense tracking with secure **JWT authentication** and **REST APIs**.
+### 💸 PaisaLekha – Personal Finance Management Backend
 
-**Tech:** Java 17, Spring Boot, PostgreSQL, Spring Data JPA  
+Secure finance management backend built using Spring Boot, Spring Security, JWT Authentication, Hibernate, and PostgreSQL.
+
+**Highlights**
+
+* JWT-based authentication and authorization
+* Expense and income tracking
+* Financial analytics and summaries
+* Category-based expense management
+* Layered backend architecture
+
+**Tech Stack:** Java, Spring Boot, Spring Security, PostgreSQL, JPA, Hibernate
 
 ---
 
-### Blogging Platform
-Multi-user blogging platform with authentication, session handling, CRUD operations, and relational database integration.
-**Tech:** JSP, Servlets, JDBC, MySQL  
+### 🚀 Smoly – URL Shortener & Certificate Verification Platform
 
----
+Full-stack application that combines URL shortening and certificate authenticity verification.
 
-### Smoly – URL Shortener & Certificate Generation Platform
+**Highlights**
 
-Backend-focused application for URL shortening, redirection handling, click tracking, and dynamic certificate generation.
+* Dynamic PDF certificate generation
+* QR-code based verification
+* Verification code validation
+* URL shortening and click tracking
+* Dockerized deployment on Render
 
-**Tech:** Java 17, Spring Boot, PostgreSQL, Spring Data JPA, JavaScript, Docker
+**Tech Stack:** Java, Spring Boot, PostgreSQL, PDFBox, ZXing, Docker, JavaScript
 
 🔗 Live Demo: https://smoly.onrender.com/
-🔗 GitHub Repository: https://github.com/akshitasharma0683-dev/smoly
 
+---
 
-## 📊 GitHub Stats
+### ✅ Task Manager
 
-![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitasharma0683-dev&show_icons=true)
+Task management application with backend REST APIs and frontend integration.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasharma0683-dev&layout=compact)
+**Highlights**
+
+* Task CRUD operations
+* RESTful API architecture
+* Database persistence
+* Frontend-backend integration
+
+**Tech Stack:** Spring Boot, JavaScript, PostgreSQL
+
+---
+
+## 📈 Current Focus
+
+* Data Structures & Algorithms
+* Spring Boot Best Practices
+* System Design Fundamentals
+* Backend Performance Optimization
 
 ---
 
 ## 🤝 Connect With Me
 
-🔗 LinkedIn  
+🔗 LinkedIn
 https://www.linkedin.com/in/akshita-sharma-188773219/
+
+🔗 GitHub
+https://github.com/akshitasharma0683-dev
