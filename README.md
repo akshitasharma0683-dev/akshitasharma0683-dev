@@ -76,18 +76,25 @@ Full-stack application that combines URL shortening and certificate authenticity
 
 ---
 
-### ✅ Task Manager
+### ✅ Task Manager – Full Stack Task Management Application
 
-Task management application with backend REST APIs and frontend integration.
+A full-stack task management application built with React and Express.js that helps users organize, track, and manage daily tasks through a modern web interface.
 
 **Highlights**
 
-* Task CRUD operations
-* RESTful API architecture
-* Database persistence
-* Frontend-backend integration
+* Create, update, and delete tasks
+* Responsive React frontend
+* RESTful backend services using Express.js
+* Persistent data storage
+* Frontend and backend deployed independently
+* Clean separation between client and server applications
 
-**Tech Stack:** Spring Boot, JavaScript, PostgreSQL
+**Tech Stack:** React, JavaScript, Express.js, Node.js, HTML, CSS
+
+🔗 Frontend: https://task-manager-frontend-eight-eosin.vercel.app/login
+
+🔗 Backend API: https://task-manager-backend-ten-phi.vercel.app/
+
 
 ---
 
