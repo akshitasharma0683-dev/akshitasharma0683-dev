@@ -1,116 +1,113 @@
-# Hi, I'm Akshita Sharma 👋
+# Hi, I am Akshita Sharma 👋
 
-💻 **Java Backend Developer | Spring Boot | REST APIs | PostgreSQL**
+### Software Development Engineer | Full-Stack Development | Java | Spring Boot | JavaScript
 
-Backend-focused developer with internship experience building secure and scalable applications using Java, Spring Boot, Spring Security, Hibernate, and PostgreSQL.
+I am a Software Developer interested in building scalable, reliable, and user-focused applications.
 
-Experienced in designing REST APIs, implementing JWT authentication, working with relational databases, and developing layered backend architectures.
+My experience spans backend development, REST API design, database management, application security, and frontend development. I enjoy taking ideas from concept to implementation, solving engineering problems, and building practical software solutions.
 
-Currently improving my skills in **Data Structures & Algorithms, System Design, and Backend Engineering**.
+I work with **Java, Spring Boot, JavaScript, React, PostgreSQL, and MySQL**, and I am continuously improving my problem-solving and software engineering skills.
 
----
-
-## 🚀 Tech Stack
-
-### Backend
-
-* Java
-* Spring Boot
-* Spring Security
-* Hibernate
-* Spring Data JPA
-
-### API Development
-
-* REST APIs
-* JWT Authentication
-
-### Databases
-
-* PostgreSQL
-* MySQL
-
-### Tools & DevOps
-
-* Git
-* Docker
-* Maven
-* Postman
-* Linux
+Currently focusing on **Data Structures & Algorithms, System Design, and Full-Stack Development**.
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Technical Skills
 
-### 💸 PaisaLekha – Personal Finance Management Backend
+**Programming Languages:** Java, JavaScript, SQL
 
-Secure finance management backend built using Spring Boot, Spring Security, JWT Authentication, Hibernate, and PostgreSQL.
+**Backend Development:** Spring Boot, Spring MVC, Spring Security, Node.js, Express.js, REST APIs
+
+**Frontend Development:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+
+**Databases & Persistence:** PostgreSQL, MySQL, Hibernate, Spring Data JPA, JDBC
+
+**Security:** JWT Authentication, BCrypt, Role-Based Access Control
+
+**Testing:** JUnit 5, Mockito, Postman
+
+**Tools & Platforms:** Git, GitHub, Maven, Docker, Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 💸 [PaisaLekha | Personal Finance Management](https://github.com/akshitasharma0683-dev/paisalekha)
+
+A secure personal finance management application with backend APIs for managing expenses, income, categories, and financial analytics.
 
 **Highlights**
+- JWT authentication and authorization using Spring Security.
+- Expense and income management with category-based organization.
+- User-level data isolation and protected REST endpoints.
+- Financial analytics for expenses, income, balances, and transaction summaries.
+- Layered architecture with database-level aggregation queries.
 
-* JWT-based authentication and authorization
-* Expense and income tracking
-* Financial analytics and summaries
-* Category-based expense management
-* Layered backend architecture
+**Tech Stack:** Java 17, Spring Boot, Spring Security, PostgreSQL, JPA, Hibernate, JUnit 5, Mockito
 
-**Tech Stack:** Java, Spring Boot, Spring Security, PostgreSQL, JPA, Hibernate
+### 🚀 [Smoly | Digital Certificate Automation Platform](https://github.com/akshitasharma0683-dev/smoly)
 
----
-
-### 🚀 Smoly – URL Shortener & Certificate Verification Platform
-
-Full-stack application that combines URL shortening and certificate authenticity verification.
+A full-stack platform combining digital certificate generation, QR-based verification, and URL shortening.
 
 **Highlights**
+- Automated PDF certificate generation using Apache PDFBox.
+- QR-code generation and certificate verification using ZXing.
+- Secure REST APIs with JWT authentication.
+- PostgreSQL persistence using Spring Data JPA and Hibernate.
+- Dockerized deployment.
 
-* Dynamic PDF certificate generation
-* QR-code based verification
-* Verification code validation
-* URL shortening and click tracking
-* Dockerized deployment on Render
+**Tech Stack:** Java 17, Spring Boot, Spring Security, PostgreSQL, PDFBox, ZXing, Docker, JavaScript
 
-**Tech Stack:** Java, Spring Boot, PostgreSQL, PDFBox, ZXing, Docker, JavaScript
+🔗 [Live Demo](https://smoly.onrender.com/)
 
-🔗 Live Demo: https://smoly.onrender.com/
+### 🛡️ [Yagyasenna | Women's Personal Safety Web Application](https://github.com/akshitasharma0683-dev/yagyasenna)
 
----
-
-### ✅ Task Manager – Full Stack Task Management Application
-
-A full-stack task management application built with React and Express.js that helps users organize, track, and manage daily tasks through a modern web interface.
+A responsive web application bringing personal safety tools, trusted contacts, journey monitoring, and emergency support resources together.
 
 **Highlights**
+- SOS assistance and trusted contact management.
+- Browser Geolocation API integration.
+- Interactive maps using Leaflet.js and OpenStreetMap.
+- Journey Mode for destination-based journey monitoring.
+- Safety journal using browser Local Storage.
+- Deployed using GitHub Pages.
 
-* Create, update, and delete tasks
-* Responsive React frontend
-* RESTful backend services using Express.js
-* Persistent data storage
-* Frontend and backend deployed independently
-* Clean separation between client and server applications
+**Tech Stack:** HTML5, CSS3, JavaScript, Geolocation API, Leaflet.js, OpenStreetMap
 
-**Tech Stack:** React, JavaScript, Express.js, Node.js, HTML, CSS
+🔗 [Live Demo](https://akshitasharma0683-dev.github.io/yagyasenna/)
 
-🔗 Frontend: https://task-manager-frontend-eight-eosin.vercel.app/login
+### ✅ [Task Manager | Full-Stack Task Management Application](https://task-manager-frontend-eight-eosin.vercel.app/login)
 
-🔗 Backend API: https://task-manager-backend-ten-phi.vercel.app/
+A full-stack task management application built using React and Express.js.
 
+**Highlights**
+- Task creation, updating, and deletion.
+- Responsive React frontend.
+- RESTful backend services using Express.js and Node.js.
+- Independent frontend and backend deployments.
+
+**Tech Stack:** React, JavaScript, Node.js, Express.js, HTML, CSS
+
+🔗 [Frontend](https://task-manager-frontend-eight-eosin.vercel.app/login) | [Backend API](https://task-manager-backend-ten-phi.vercel.app/)
 
 ---
 
 ## 📈 Current Focus
 
-* Data Structures & Algorithms
-* Spring Boot Best Practices
-* System Design Fundamentals
-* Backend Performance Optimization
+- Data Structures & Algorithms
+- Problem Solving and Competitive Programming Fundamentals
+- System Design
+- Full-Stack Application Development
+- Software Architecture and Clean Code
+- Backend Performance and API Optimization
 
 ---
 
 ## 🤝 Connect With Me
 
-🔗 LinkedIn
-https://www.linkedin.com/in/akshita-sharma-188773219/
+- **LinkedIn:** [Akshita Sharma](https://www.linkedin.com/in/akshita-sharma-188773219/)
+- **GitHub:** [akshitasharma0683-dev](https://github.com/akshitasharma0683-dev)
 
-🔗 GitHub
-https://github.com/akshitasharma0683-dev
+---
+
+*Learning continuously. Building consistently. Growing as an engineer.* 💜
