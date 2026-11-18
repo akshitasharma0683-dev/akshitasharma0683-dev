@@ -123,25 +123,14 @@ flowchart LR
 
 ---
 
-## 📊 GitHub
+## 📊 Languages I use most
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshitasharma0683-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasharma0683-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasharma0683-dev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell,batchfile" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshitasharma0683-dev/akshitasharma0683-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshitasharma0683-dev/akshitasharma0683-dev/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/akshitasharma0683-dev/akshitasharma0683-dev/output/github-snake.svg" />
-</picture>
 
 ---
 
 ## 🤝 Let's talk
 
 If you're hiring for a Java, full-stack, or backend role, or just want to talk about something I've built, email me at **akshitasharma0683@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/akshita-sharma-188773219/).
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
